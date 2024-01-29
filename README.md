@@ -2,7 +2,7 @@
 <h3 align="center">BackEnd Dev</h3>
 <div align="center">
   <div style="display: inline-block;">
-    <img alt="Night Coding" width="50%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+    <img alt="Night Coding" width="50%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pwdmxtcWk3aDRyNmdlY2gxeWdxYWpkaTFvaWxsOWZiZW50YWtueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
   </div>
 </div>
 <div align="center">
@@ -19,7 +19,6 @@
 <div>
     <ul>
       <li>🌱 I’m currently learning <strong>GO</strong></li>
-      <li>🤝 I’m looking for help with <strong>us</strong></li>
       <li>💬 Ask me about <strong>Go</strong></li>
     </ul>
 </div>
